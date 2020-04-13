@@ -13,7 +13,7 @@ using System.Data.SqlClient;
 
 namespace RecreatedSurvey.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller 
     {
 
         public IConfiguration Configuration { get; }
